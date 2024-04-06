@@ -24,3 +24,11 @@ The objective of the Snake Game is to eat food (the red square) that randomly ap
 ## Play the Game Here
 
 [PlayGame](https://harmonious-piroshki-cb26e2.netlify.app)
+
+
+## Maintainers
+### Mansoor Ahmed
+<img src="https://avatars.githubusercontent.com/u/69378309?s=96&v=4" alt="Mansoor Ahmed's Avatar" width="20" height="20">
+- GitHub: [Mansoor Ahmed](https://github.com/MansoorAhmedk)
+
+
